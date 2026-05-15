@@ -24,7 +24,7 @@ This repository hosts the interactive research paper and supplementary materials
 ## Repository Contents
 * [index.html](https://samuelson777.github.io/Neurocognitive-and-Evolutionary-Architecture-of-Visual-Perceptual-Completion/): The interactive, single-file web application version of the research paper. It features an interactive Kanizsa triangle illusion generator and empirical data visualizations.
 
-* [paper.pdf](https://www.researchgate.net/publication/404911203_Neurocognitive_and_Evolutionary_Architecture_of_Visual_Perceptual_Completion_Mechanisms_of_Sensory_Interpolation_and_Object_Synthesis): The standard academic manuscript formatted for preprint publication (e.g., for Zenodo or PsyArXiv).
+* [paper.pdf](https://www.researchgate.net/publication/404911203_Neurocognitive_and_Evolutionary_Architecture_of_Visual_Perceptual_Completion_Mechanisms_of_Sensory_Interpolation_and_Object_Synthesis): The standard academic manuscript.
 
 * README.md: Project overview and conclusions.
 
