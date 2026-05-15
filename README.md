@@ -31,7 +31,7 @@ This repository hosts the interactive research paper and supplementary materials
 ## Interactive Application Features
 The included index.html file allows users to physically engage with the psychological concepts before analyzing the empirical data:
 
-!. **Illusion Generator:** Demonstrates modal/amodal completion by letting users align disjointed elements to trigger the brain's automatic rendering of an illusory shape.
+1. **Illusion Generator:** Demonstrates modal/amodal completion by letting users align disjointed elements to trigger the brain's automatic rendering of an illusory shape.
 
 2. **Recognition Thresholds:** Plots object recognition accuracy against visibility percentages, illustrating the non-linear cognitive leap that occurs when approximately 30-50% of an object is visible.
 
